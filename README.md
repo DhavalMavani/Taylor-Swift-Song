@@ -23,3 +23,6 @@ After downloading, type the following into the command line:
 And that's it! Answer the questions and you'll see a list of the top five songs which match your current mood and relationship status.
 
 The included Jupyter notebook shows a complete example.
+
+## 🔗 Let's Connect
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhaval-mavani)
